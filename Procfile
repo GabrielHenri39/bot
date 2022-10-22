@@ -1,0 +1,1 @@
+rpgdado: python "bot.py"
